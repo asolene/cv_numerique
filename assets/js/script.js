@@ -15,3 +15,4 @@ function scrollFunction() {
 document.getElementById("myBtn").onclick =function topFunction() {
   document.documentElement.scrollTop = 0; 
 }
+
